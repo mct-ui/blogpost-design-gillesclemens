@@ -47,6 +47,8 @@ html {
     line-height: 1.5;
     /*font-family: "Inter UI web", "Helvetica Neue", Helvetica, arial, sans-serif;*/
     font-family: "Droid Serif web", Georgia, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
     color: #5C6366;
     padding: 48px 24px 24px;
 }
